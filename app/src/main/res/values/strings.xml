@@ -19,4 +19,6 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="item_list1">Item List</string>
+    <string name="food_list">Food List</string>
+    <string name="drink_list">Drink List</string>
 </resources>

@@ -28,3 +28,7 @@ public class MenuViewHolder extends RecyclerView.ViewHolder implements View.OnCl
         itemClickListener.onClick(view, getAdapterPosition(), false);
     }
 }
+//looks ok to me
+//ab try kar ek baar
+//kuch nahi aaya usme
+//atleast it didnt crash

@@ -7,9 +7,5 @@ import java.util.ArrayList;
  */
 
 public class RvAdapter {
-    private ArrayList<Category> entries;
-
-    public RvAdapter(ArrayList<Category> entries) {
-        this.entries = entries;
-    }
+     ArrayList<Category> catlist = new ArrayList<>();
 }
